@@ -1,5 +1,5 @@
 # Slyth Hive
-A Foundry VTT adaptation of a high level adventure by Prince of Nothing. For use with the Advanced Roleplaying System.
+A Foundry VTT adaptation of a high level adventure by Prince of Nothing. For use with the Advanced Roleplaying System. You can support the author by buying the PDF here: https://www.drivethrurpg.com/en/product/458449/slyth-hive
 
 ## Dependencies:
 PDF Pager: https://foundryvtt.com/packages/pdf-pager
