@@ -1,4 +1,4 @@
-# slyth-hive
+# Slyth Hive
 A high level adventure for use with the Advanced Roleplaying System on Foundry VTT.
 
 ## Dependencies:
