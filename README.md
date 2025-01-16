@@ -6,7 +6,7 @@ PDF Pager: https://foundryvtt.com/packages/pdf-pager
 
 ## Installation instructions:
 1. Paste the manifest URL into the Foundry module installer.
-Manifest URL:
+Manifest URL: https://github.com/CanisLupus999/slyth-hive/releases/download/0.9/module.json
 2. Install all dependencies.
 3. Activate the module in your world.
 4. Find the ReadMe Jpurnal Note in Slyth Hive Journals compendium and follow the instructions described there.
