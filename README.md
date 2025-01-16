@@ -1,6 +1,23 @@
 # Slyth Hive
 A Foundry VTT adaptation of a high level adventure by Prince of Nothing. For use with the Advanced Roleplaying System. You can support the author by buying the PDF here: https://www.drivethrurpg.com/en/product/458449/slyth-hive
 
+## Description
+What once was, shall be again. The evil Pharnabazus, high priest of Shub-Niggurath, has ventured into Old Agoiah, and with the aid of evil sorcery, has re-awakened an ancient terror. The Slyth, a weapon race of the primordial Axototli civilization, has been reborn from the Wells of Lazarus at the hands of the Arch-Heretic. Reports of missing huntsmen, depopulated forests and sightings of eerie, primeval monstrosities begin to filter in from this decrepit backwater region. 
+
+For OSRIC and other editions for the World's Most Popular Roleplaying Game. An adventure for characters of Level 14+!
+
+Within the pages of this final boss of NAP III, you will find the following:
+
+* 10+ Deadly creatures to test the mettle of even the mightiest heroes
+* Magic items to fill the vaults of Archmages, including new ones: The Rod of All Flesh, the Living Armor and the Bone Mask
+* Lethal environmental hazards: horrific fungi, the deepest jungle, the depths of the underwater ocean, the annihilating Anti-magic caverns and more!
+* Innovative mechanics that put pressure on players and forces them to change tactics
+* Comprehensive gauntlet of attrition that requires both tactical and strategic thinking and tests both system mastery and raw cunning and bravery
+* Nine challenging levels
+* Combat against hundreds of enemies
+* 12+ exciting pregens so you don’t have to play AD&D 1e for 8 years before trying it out, including Vaus Arghul - Master of Summer, Solomon - Archmage of Forces, the unstoppable Brandoch Daha - wielder of the Hammer of Thunderbolts, Gauntlets of Ogre Power and Belt of Stone Giant Strength and Kent.
+* Over a million gp worth of treasure
+
 ## Dependencies:
 PDF Pager: https://foundryvtt.com/packages/pdf-pager
 
