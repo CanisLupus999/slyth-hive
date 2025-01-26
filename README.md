@@ -31,7 +31,7 @@ Manifest URL: https://github.com/CanisLupus999/slyth-hive/releases/download/0.9/
 ## Issues
 You can find me on the ARS discord server.
 
-## Acknowledgemnts
+## Acknowledgements
 1. Prince of Nothing for permission to use his work in this module.
 2. Celestain for creating the Advanced Roleplaying System for Foundry and for all the help he has provided.
 3. SpencerG for not giving up on Variant1 psionics.
