@@ -37,7 +37,7 @@ You can find me on the ARS discord server.
 3. SpencerG for not giving up on Variant1 psionics.
 4. EOTB for all the work on OSRIC content for Foundry and for all the help and shared knowledge about DnD in general.
 5. My wonderful wife for her patience during the development of this module.
-6. Last (but by no maeans least), my incredible players: Olga, Francuz, Piotrek, Pająk and Liberty. Thank you for your patience during testing and for all the games we had in the last years!
+6. Last (but by no means least), my incredible players: Olga, Francuz, Piotrek, Pająk and Liberty. Thank you for your patience during testing and for all the games we had in the last years!
 
 ## Legal:
 This product uses the OSRIC™ System (Oldschool System Reference and Index Compilation™). The OSRIC™ system text may be found at http://www.knights-n-knaves.com/osric. The OSRIC™ text is copyright of Stuart Marshall. "OSRIC™" and "Oldschool System Reference and Index Compilation™" are trademarks of Stuart Marshall and Matthew Finch and may be used only in accordance with the OSRIC™ license.
